@@ -1,0 +1,18 @@
+// Milestone 3 
+// File Name: reflect.txt
+// Author: Mann Patel
+// AuthorID: 134633205
+// Date: 01/12/2021
+
+/*
+   I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and  assignments.
+*/
+
+
+- This assignment wrapped OOP345 course in one folder. It covered almost every topic including algorithms, files and modular programming. Workshops were quite easy 
+  as compared to milestones. The reason was that the instructions in workshop were easy to understand and implement whereas in third milestone, the instructions were
+  too hard to interpret. I got stuck many times while completing this milestone. One of the situations were that when I was implementing "run" function in LineManager 
+  module, for some reason "incomplete" queue was not accepting push_back elements. I tried to debug it and also went through the notes to identify where I was wrong. 
+  Later, after searching through whole code for twice, I realised that I was not returing correct boolean variable and that was why my queue was empty. Because the guidelines
+  hard to follow, it was difficult to debug the code. If this milestone mentioned somewhere of what was expected from students, it would have been easy to code. 
+  Nevertheless, I felt very proud and satisfied of having completed this project before due date. 
